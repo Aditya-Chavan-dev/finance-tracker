@@ -117,7 +117,7 @@ npm start
 
 ## 👨‍💼 Author
 
-**\[Your Name]**
+**Aditya Chavan**
 `Full-stack Developer | React | Node | MSSQL`
 
 ---

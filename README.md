@@ -6,7 +6,7 @@ A **full-stack personal finance management tool** that enables users to track in
 
 ## 🚀 Features
 
-* 🔐 **User Authentication** – Login system integrated with MSSQL using parameterized queries (SQL injection safe).
+* 🔐 **User Authentication** – Login system integrated with MSSQL using parameterized queries (SQL injection safe). 
 * 📊 **Expense & Salary Inputs** – Modular form components to capture recurring and one-time financial entries.
 * 📈 **Budget Analytics** – Visual components (coming soon) to guide decisions on spending vs. saving.
 * 📁 **Environment-Secured Configuration** – All database credentials securely managed with `.env`.
